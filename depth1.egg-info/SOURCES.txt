@@ -1,6 +1,0 @@
-setup.py
-depth1/func.py
-depth1.egg-info/PKG-INFO
-depth1.egg-info/SOURCES.txt
-depth1.egg-info/dependency_links.txt
-depth1.egg-info/top_level.txt
