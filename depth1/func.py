@@ -1,6 +1,6 @@
-import depth2.func
+# import depth2.func
 
-def depth1():
-	func.hello()
+
+def hello_depth1():
 	print("depth1 project")
 
