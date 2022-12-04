@@ -5,5 +5,5 @@ setup(
     version="v0.0.1",
     package=find_packages,
     install_requires=[],
-    dependency_links=["git+https//github.com:dongchangYoo/depth2.git"]
+    dependency_links=["git+https//github.com/dongchangYoo/depth2.git"]
 )
